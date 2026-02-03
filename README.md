@@ -1,2 +1,2 @@
 # s6-networking-lab
-C prgms implementation for 6th sem networkin lab 
+This repository contains Python implementations for Network Programming Lab exercises, including ARP/RARP protocols, TCP/UDP socket programming (echo servers, chat apps, file transfers), sliding window protocols, SNMP clients/servers, and more. Ideal for students practicing core networking concepts with runnable scripts.
